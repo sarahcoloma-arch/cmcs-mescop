@@ -32,5 +32,3 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](M
 | Date     | Topic/Title | Links        |
 | Date     | Topic/Title | Links        |
 | Date     | Topic/Title | Links        |
-
-{% include footer.html %}
