@@ -3,15 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
+
   <style>
     body {
       margin: 0;
-      font-family: Arial, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      background-color: #f6f8fa;
     }
 
     .site-header {
       background-color: #005ea2;
-      width: 100%;
       padding: 15px 20px;
     }
 
@@ -19,8 +20,22 @@
       height: 50px;
     }
 
-    main {
-      padding: 20px;
+    .content-wrapper {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 40px;
+      background: white;
+      border-radius: 6px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    }
+
+    h1, h2, h3 {
+      border-bottom: 1px solid #eaecef;
+      padding-bottom: 0.3em;
+    }
+
+    a {
+      color: #0969da;
     }
   </style>
 </head>
@@ -30,7 +45,7 @@
     <img src="/cmcs-mescop/cms-logo-white.png" alt="Logo" class="logo">
   </header>
 
-  <main>
+  <main class="content-wrapper">
     {{ content }}
   </main>
 
