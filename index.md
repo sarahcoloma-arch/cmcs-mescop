@@ -1,25 +1,3 @@
----
-title: Home
----
-
-<style>
-.cms-header {
-  background-color: #1f3a5f;
-  color: white;
-  padding: 20px 40px;
-}
-.cms-header img {
-  height: 40px;
-  vertical-align: middle;
-  margin-right: 15px;
-}
-</style>
-
-<div class="cms-header">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CMS_Logo.svg/2560px-CMS_Logo.svg.png">
-  MES Certification Repository
-</div>
-
 # CMS MES Community of Practice (CoP)
 
 ## Welcome 
