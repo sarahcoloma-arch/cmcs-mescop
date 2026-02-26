@@ -1,1 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
 
+    .site-header {
+      background-color: #005ea2;
+      width: 100%;
+      padding: 15px 20px;
+    }
+
+    .logo {
+      height: 50px;
+    }
+
+    main {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="site-header">
+    <img src="/cmcs-mescop/logo.png" alt="Logo"> class="logo">
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+</body>
+</html>
