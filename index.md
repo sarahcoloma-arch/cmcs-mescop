@@ -7,10 +7,11 @@ The Medicaid Enterprise Systems (MES) landscape regularly fluctuates with emergi
 The CMS MES CoP is a meaningful space that brings together states, vendors, and CMS personnel and supports them in their shared work and mission. 
 
 ### What the MES CoP offers 
-Targeted and comprehensive technical assistance with: Advance Planning Documents (APDs), contracts, MES procurements, emerging and urgent MES topics, common state challenges and opportunities
-Reduced knowledge gaps and deepen understanding within the space
-Transparency and improved standardization of MES topics 
-Broad relationship-building between states and the MES team 
+* Targeted and comprehensive technical assistance with: Advance Planning Documents (APDs), contracts, MES procurements, emerging and urgent MES topics, common state challenges and opportunities.  
+* Reduce knowledge gaps and deepen understanding within the space.
+* Improve transparency and standardization of MES topics.
+* Broaden relationships between states and the MES team.
+
 For questions about joining this CoP, please contact MESFeedback@cms.hhs.gov.
 
 ### Upcoming CoP sessions 
