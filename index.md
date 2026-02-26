@@ -1,21 +1,3 @@
----
-layout: default
-title: Home
----
-
-<style>
-.cms-header {
-  background-color: #1f3a5f;
-  color: white;
-  padding: 20px 40px;
-  margin: -40px -40px 40px -40px;
-}
-</style>
-
-<div class="cms-header">
-  MES Certification Repository
-</div>
-
 # CMS MES Community of Practice (CoP)
 
 ## Welcome 
