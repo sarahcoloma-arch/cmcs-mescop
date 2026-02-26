@@ -11,7 +11,7 @@ Targeted and comprehensive technical assistance with: Advance Planning Documents
 Reduced knowledge gaps and deepen understanding within the space
 Transparency and improved standardization of MES topics 
 Broad relationship-building between states and the MES team 
-For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](MESFeedback@cms.hhs.gov).
+For questions about joining this CoP, please contact MESFeedback@cms.hhs.gov.
 
 ### Upcoming CoP sessions 
 
