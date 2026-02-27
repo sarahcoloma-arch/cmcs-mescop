@@ -43,6 +43,8 @@ body {
   padding: 0 15px; /* add horizontal padding for breathing room */
 }
 
+
+
 /* Paragraph spacing */
 p {
   margin: 0 0 0.8em 0; /* less bottom space */
@@ -93,94 +95,30 @@ tr:hover {
   background-color: #1b1b1b;
   width: 100%;
   padding: 2rem 0;
+
+  /* Ensure it behaves as a block element */
+  display: block;
 }
 
-/* Centered container matching main content width */
+/* Inner container constrained and centered */
 .footer-container {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 1rem;
+  max-width: 1100px;  /* same as main content */
+  margin-left: auto;
+  margin-right: auto;  /* centers the container */
+  padding: 0 1rem;    /* optional horizontal padding for mobile */
+  box-sizing: border-box; /* ensures padding doesn’t break width */
 }
 
-.footer-text p {
+.footer-container p {
   color: #ffffff;
   margin: 0.5rem 0;
 }
 
-.footer-text a {
-  color: #4dabf7;
-  text-decoration: none;
-}
-.footer-text a:hover {
-  text-decoration: underline;
-}
-
-/* US Agency Identifier Section */
-.usa-identifier {
-  background-color: #2d2d2d;
-  color: #ffffff;
-  padding: 2rem 0;
-}
-
-.usa-identifier__container {
-  max-width: 1100px;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
-
-.usa-identifier__logos {
-  display: flex;
-  align-items: center;
-  gap: 1.5rem;
-  margin-bottom: 1rem;
-}
-
-.usa-identifier__logo-img {
-  height: 40px;
-  width: auto;
-}
-
-.usa-identifier__identity-domain {
-  font-weight: bold;
-  margin: 0.5rem 0;
-}
-
-/* 4-column required links */
-.usa-identifier__required-links-list {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 0.75rem 2rem;
-  list-style: none;
-  padding: 0;
-  margin: 1.5rem 0;
-}
-
-.usa-identifier__required-links-list li {
-  margin: 0;
-}
-
-.usa-identifier a {
+.footer-container a {
   color: #4dabf7;
   text-decoration: none;
 }
 
-.usa-identifier a:hover {
+.footer-container a:hover {
   text-decoration: underline;
-}
-
-/* Responsive: 2 columns on tablet, 1 column on mobile */
-@media (max-width: 900px) {
-  .usa-identifier__required-links-list {
-    grid-template-columns: repeat(2, 1fr);
-  }
-}
-
-@media (max-width: 640px) {
-  .usa-identifier__required-links-list {
-    grid-template-columns: 1fr;
-  }
-}
-
-.usa-identifier__required-links-list li {
-  margin: 0;
 }
