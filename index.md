@@ -16,7 +16,7 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](M
 
 ### Upcoming CoP sessions 
 
-| `Date`     | `Topic/Title` | `Links`        |
+| Date     | Topic/Title | Links       |
 |----------|-----|------------|
 | Date     | Topic/Title | Links        |
 | Date     | Topic/Title | Links        |
@@ -27,7 +27,7 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](M
 
 ### Past CoP sessions 
 
-| `Date`     | `Topic/Title` | `Links`        |
+| Date     | Topic/Title | Links       |
 |----------|-----|------------|
 | Date     | Topic/Title | Links        |
 | Date     | Topic/Title | Links        |
