@@ -29,7 +29,7 @@ For questions about joining this CoP, please contact (MESFeedback@cms.hhs.gov).
 
 | Date     | Topic/Title | Links       |
 |----------|-----|------------|
-| Date     | Topic/Title | Links        |
-| Date     | Topic/Title | Links        |
-| Date     | Topic/Title | Links        |
-| Date     | Topic/Title | Links        |
+| Month XX, 2026     | - Meeting Topic 1<br>- Meeting Topic 2<br>- Meeting Topic 3| - Meeting Agenda<br>- Document 1<br>- Document 2        |
+| Month XX, 2026     | - Meeting Topic 1<br>- Meeting Topic 2<br>- Meeting Topic 3| - Meeting Agenda<br>- Document 1<br>- Document 2        |
+| Month XX, 2026     | - Meeting Topic 1<br>- Meeting Topic 2<br>- Meeting Topic 3| - Meeting Agenda<br>- Document 1<br>- Document 2        |
+| Month XX, 2026     | - Meeting Topic 1<br>- Meeting Topic 2<br>- Meeting Topic 3| - Meeting Agenda<br>- Document 1<br>- Document 2        |
