@@ -36,14 +36,34 @@ body {
   padding: 40px 20px;
 }
 
+/* Content container */
 .wrapper {
-  max-width: 1000px;
+  max-width: 760px; /* ChatGPT-style readable width */
   margin: 0 auto;
 }
 
+/* Paragraph spacing */
+p {
+  margin: 0 0 1.2em 0;
+}
+
 /* Headings */
-h1, h2, h3 {
-  margin-top: 0;
+h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 1.5em 0 0.8em;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 1.5em 0 0.6em;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 1.2em 0 0.5em;
 }
 
 /* Tables */
