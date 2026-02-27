@@ -100,6 +100,28 @@ tr:hover {
   display: block;
 }
 
+/* Inner container constrained and centered */
+.footer-container {
+  max-width: 1100px;  /* same as main content */
+  margin-left: auto;
+  margin-right: auto;  /* centers the container */
+  padding: 0 1rem;    /* optional horizontal padding for mobile */
+  box-sizing: border-box; /* ensures padding doesn’t break width */
+}
+
+.footer-container p {
+  color: #ffffff;
+  margin: 0.5rem 0;
+}
+
+.footer-container a {
+  color: #4dabf7;
+  text-decoration: none;
+}
+
+.footer-container a:hover {
+  text-decoration: underline;
+}
 
 /* Footer base */
 .site-footer {
