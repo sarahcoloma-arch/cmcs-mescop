@@ -1,0 +1,23 @@
+---
+---
+
+@import "minima";
+
+/* Full-width blue header */
+.custom-header {
+  background-color: #1464a5; /* change to your preferred blue */
+  height: 90px;
+  display: flex;
+  align-items: center;
+}
+
+.header-inner {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.logo {
+  height: 40px;
+}
