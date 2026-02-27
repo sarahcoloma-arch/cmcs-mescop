@@ -1,0 +1,44 @@
+---
+---
+
+/* Full-width blue header */
+.custom-header {
+  background-color: #1464a5; /* change to your preferred blue */
+  height: 90px;
+  display: flex;
+  align-items: center;
+}
+
+.header-inner {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.logo {
+  height: 40px;
+}
+
+/* Reset default body spacing */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Main content area */
+.page-content {
+  padding: 40px 20px;
+}
+
+.wrapper {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+/* Headings */
+h1, h2, h3 {
+  margin-top: 0;
+}
