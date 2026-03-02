@@ -170,3 +170,15 @@ font-size: 16px;
   background-color: #1b1b1b;
   padding: 32px 0;
 }
+
+/* Make top footer text white */
+.site-footer-top p {
+  color: #fff;
+}
+
+/* Make top footer links match bottom footer */
+.site-footer-top a {
+  color: #dfe1e2;
+  font-weight: 700;
+  text-decoration: underline;
+}
