@@ -13,20 +13,21 @@ layout: none
 
   <body>
 
-    <!-- Custom Blue Header -->
-    <header class="custom-header">
-      <div class="header-inner">
-        <img src="{{ '/assets/logo.png' | relative_url }}" alt="Logo" class="logo">
-      </div>
-    </header>
+  <!-- Header -->
+  <header class="custom-header">
+    <div class="header-inner">
+      <img src="{{ '/assets/logo.png' | relative_url }}" alt="Logo" class="logo">
+    </div>
+  </header>
 
-    <main class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </main>
-    
-    {% include footer.html %}
-    
-  </body>
-</html>
+  <!-- Main Content -->
+  <main class="page-content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  <!-- Footer -->
+  {% include footer.html %}
+
+</body>
