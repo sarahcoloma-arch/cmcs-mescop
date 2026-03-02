@@ -147,3 +147,21 @@ font-size: 16px;
   color: #dfe1e2;
   text-decoration: underline;
 }
+
+/* Remove blue background from parent */
+.site-footer {
+  background: none;
+  padding: 0;
+}
+
+/* TOP SECTION (GitHub / CMS info) */
+.footer-top {
+  background-color: #0f2f45; /* darker than main footer */
+  padding: 24px 0;
+}
+
+/* BOTTOM SECTION (Official gov footer) */
+.footer-bottom {
+  background-color: #17415F; /* your original blue */
+  padding: 32px 0;
+}
