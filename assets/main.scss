@@ -239,10 +239,10 @@ font-size: 16px;
 /* Responsive: stack logos + text vertically on narrow screens */
 @media (max-width: 600px) {
   .footer-content {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
+  display: flex;
+  align-items: flex-start; /* align top edges instead of centers */
+  gap: 8px;                 /* space between logos and text frame */
+}
   .footer-logos {
     margin-bottom: 16px;
   }
