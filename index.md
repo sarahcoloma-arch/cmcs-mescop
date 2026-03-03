@@ -38,9 +38,9 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](m
       • Meeting Topic 3
     </td>
     <td>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Meeting Agenda</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 2</a><br>
-      • <a href="{{ '/assets/sample.pdf' | relative_url }}" target="_blank">Document 3</a>
+      • <a href="{{ '/assets/Sample.pdf' | relative_url }}" target="_blank">Meeting Agenda</a><br>
+      • <a href="{{ '/assets/Sample.pdf' | relative_url }}" target="_blank">Document 2</a><br>
+      • <a href="{{ '/assets/Sample.pdf' | relative_url }}" target="_blank">Document 3</a>
     </td>
   </tr>
   <tr>
