@@ -36,6 +36,7 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](m
       • New Medicaid Detailed Budget Table<br>
     </td>
     <td>
+        <a href="assets/MES-MDBT+CHIP and non-FIFO Presentation - State Facing.pptx" target="_blank">PowerPoint Slides</a>
     </td>
   </tr>
   </tbody>
