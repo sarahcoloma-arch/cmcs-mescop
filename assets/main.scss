@@ -1,0 +1,260 @@
+---
+---
+
+/* Full-width blue header */
+.custom-header {
+  background-color: #17415F; /* change to your preferred blue */
+  height: 70px;
+  display: flex;
+  align-items: center;
+}
+
+.header-inner {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.logo {
+  height: 40px;
+}
+
+/* Reset default body spacing */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 
+               "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  background-color: #ffffff;
+  color: #1a1a1a;
+}
+
+/* Main content area */
+.page-content {
+  padding: 20px 20px; 
+}
+
+/* Content container */
+.wrapper {
+  max-width: 900px; /* wider container for more content per line */
+  margin: 0 auto;
+  padding: 0 15px; /* add horizontal padding for breathing room */
+}
+
+
+
+/* Paragraph spacing */
+p {
+  margin: 0 0 0.8em 0; /* less bottom space */
+}
+
+/* Headings */
+h1 {
+  margin: 1em 0 0.5em;
+}
+
+h2 {
+  margin: 1em 0 0.4em;
+}
+
+h3 {
+  margin: 0.8em 0 0.3em;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 30px 0;
+  font-size: 0.95rem;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: 600;
+}
+
+tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+tr:hover {
+  background-color: #f1f7ff;
+}
+
+/* Full-width footer background */
+.site-footer {
+  background-color: #17415F;  /* bottom footer blue */
+  padding: 32px 0;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.site-footer p {
+  font-size: 16px;
+  margin: 0 0 8px 0;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 
+               "Helvetica Neue", Arial, sans-serif;
+}
+
+.footer-links {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
+  gap: 12px 24px; /* row and column gaps */
+  max-width: 600px; /* optional, to avoid too wide */
+}
+
+.footer-links a {
+font-size: 16px;
+  color: #dfe1e2;
+  font-weight: 700;
+  white-space: nowrap; /* optional: prevent link text wrapping */
+}
+
+  .footer-top a {
+  font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 
+               "Helvetica Neue", Arial, sans-serif;
+  color: #dfe1e2;
+      font-weight: 700; 
+}
+
+ .footer-bottom a {
+  font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 
+               "Helvetica Neue", Arial, sans-serif;
+  color: #dfe1e2;
+      font-weight: 700; 
+}
+
+.usa-gov {
+  margin-top: 32px; /* space from previous block */
+  font-size: 16px;
+  color: #fff;
+  max-width: 1000px; /* same as .wrapper max-width */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.usa-gov a {
+  color: #dfe1e2;
+  text-decoration: underline;
+}
+
+
+
+/* TOP SECTION (GitHub / CMS info) */
+.footer-top {
+  background-color: #3d4551; /* lighter than main footer */
+  padding: 24px 0;
+}
+
+/* BOTTOM SECTION (Official gov footer) */
+.footer-bottom {
+  background-color: #1b1b1b; /* main footer color (used by https://dsacms.github.io/ospo-guide/) */
+  padding: 32px 0;
+}
+
+/* TOP FOOTER (Gray) */
+.site-footer-top {
+  background-color: #3d4551;
+  padding: 24px 0;
+}
+
+/* BOTTOM FOOTER (Dark Gray) */
+.site-footer {
+  background-color: #1b1b1b;
+  padding: 32px 0;
+}
+
+/* Horizontal container: logos + text */
+.footer-content {
+  display: flex;             /* horizontal flex container */
+  align-items: flex-start;   /* top-align logos and text vertically */
+  gap: 8px;                  /* space between logos frame and text frame */
+  margin-bottom: 24px;       /* spacing from links below */
+}
+
+/* Make top footer text white */
+.site-footer-top p {
+  color: #fff;
+}
+
+/* Make top footer links match bottom footer */
+.site-footer-top a {
+  color: #dfe1e2;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+/* Footer links - force consistent color */
+.site-footer a,
+.site-footer a:visited,
+.site-footer a:hover,
+.site-footer a:active,
+.site-footer a:focus,
+.site-footer-top a,
+.site-footer-top a:visited,
+.site-footer-top a:hover,
+.site-footer-top a:active,
+.site-footer-top a:focus {
+  color: #dfe1e2;
+  text-decoration: underline;
+}
+
+/* Logos */
+.footer-logos {
+  display: flex;
+  gap: 16px;  /* space between logos */
+}
+
+.footer-logo {
+  height: 48px;
+  width: auto;
+}
+
+/* Text frame (vertical stack) */
+.footer-text {
+  display: flex;
+  flex-direction: column; /* vertical stack */
+  gap: 0px;
+}
+
+.cms-gov {
+  font-weight: 700;
+  font-size: 16px;
+  color: #fff;
+}
+
+.footer-text .official {
+  font-size: 14px;
+  color: #fff;
+}
+
+.footer-text .official a {
+  color: #dfe1e2;
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+/* Responsive: stack logos + text vertically on narrow screens */
+@media (max-width: 600px) {
+  .footer-content {
+    flex-direction: column; /* stack logos + text vertically on mobile */
+    align-items: flex-start;
+    gap: 16px; /* slightly larger gap for stacked layout */
+  }
+  
+  .footer-logos {
+    margin-bottom: 16px; /* space below logos */
+  }
+}
