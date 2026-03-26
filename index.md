@@ -36,8 +36,8 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](m
       • New Medicaid Detailed Budget Table<br>
     </td>
     <td>
-      • Medicaid Enterprise Systems (MES) Community of Practice (COP)<br>
-      • Streamlining Medicaid Enterprise Systems | Updates on the Medicaid Detailed Budget Table Process and Template<br>
+      • <a href="assets/March MES CoP_Welcome.pptx" target="_blank" rel="noopener noreferrer">Medicaid Enterprise Systems (MES) Community of Practice (COP)</a><br> 
+      • <a href="assets/MES-MDBT+CHIP and non-FIFO Presentation - State Facing (1).pptx" target="_blank" rel="noopener noreferrer">Streamlining Medicaid Enterprise Systems | Updates on the Medicaid Detailed Budget Table Process and Template</a><br> 
     </td>
   </tr>
   </tbody>
