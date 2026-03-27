@@ -36,8 +36,10 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](m
       • New Medicaid Detailed Budget Table<br>
     </td>
     <td>
-      • <a href="assets/March MES CoP_Welcome.pptx" target="_blank" rel="noopener noreferrer">Medicaid Enterprise Systems (MES) Community of Practice (COP)</a><br> 
-      • <a href="assets/MES-MDBT+CHIP and non-FIFO Presentation - State Facing (1).pptx" target="_blank" rel="noopener noreferrer">Streamlining Medicaid Enterprise Systems | Updates on the Medicaid Detailed Budget Table Process and Template</a><br> 
+    • <a href="https://cmsgovonline-my.sharepoint.com/:v:/r/personal/makenzie_mcintoshrollins2_cms_hhs_gov/Documents/Recordings/MES%20CoP%20New%20Medicaid%20Detailed%20Budget%20Table-20260325_180148UTC-Meeting%20Recording.mp4?csf=1&web=1&e=LETqhp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7InN0YXJ0VGltZUluU2Vjb25kcyI6Mzc0LjY1fX0%3D">Meeting Recording</a><br> 
+    • <a href="assets/MES CoP_ New Medicaid Detailed Budget Table_Transcript.docx" target="_blank" rel="noopener noreferrer">Meeting Transcript</a><br> 
+    • <a href="assets/March MES CoP_Welcome.pptx" target="_blank" rel="noopener noreferrer">Medicaid Enterprise Systems (MES) Community of Practice (COP)</a><br> 
+    • <a href="assets/MES-MDBT+CHIP and non-FIFO Presentation - State Facing (1).pptx" target="_blank" rel="noopener noreferrer">Streamlining Medicaid Enterprise Systems | Updates on the Medicaid Detailed Budget Table Process and Template</a><br>  
     </td>
   </tr>
   </tbody>
