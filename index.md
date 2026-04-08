@@ -42,7 +42,6 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     <a href="assets/MES-MDBT+CHIP and non-FIFO Presentation - State Facing (1).pptx" target="_blank" rel="noopener noreferrer">Streamlining Medicaid Enterprise Systems | Updates on the Medicaid Detailed Budget Table Process and Template</a><br>  
     </td>
   </tr>
-  </tbody>
      <tr>
     <td>Wednesday, April 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
@@ -52,7 +51,6 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     TBA<br> 
     </td>
   </tr>
-    </tbody>
      <tr>
     <td>Wednesday, May 20, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
@@ -62,7 +60,6 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     TBA<br> 
     </td>
   </tr>
-     </tbody>
      <tr>
     <td>Wednesday, June 17, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
@@ -72,7 +69,6 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     TBA<br> 
     </td>
   </tr>
-      </tbody>
      <tr>
     <td>Wednesday, July 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
@@ -82,6 +78,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     TBA<br> 
     </td>
   </tr>
+</tbody>
 </table>
 
 ### MES CoP Office Hours 
