@@ -49,7 +49,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       Operational Report Workbook<br>
     </td>
     <td>
-    <a href="https://events.gcc.teams.microsoft.com/event/4035d463-8d21-4eb3-bfe9-85da961132de@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
+    TBA<br> 
     </td>
   </tr>
     </tbody>
@@ -59,7 +59,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       Project Status Reports<br>
     </td>
     <td>
-    TBD<br> 
+    TBA<br> 
     </td>
   </tr>
      </tbody>
@@ -69,7 +69,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       Analysis of Alternatives<br>
     </td>
     <td>
-    TBD<br> 
+    TBA<br> 
     </td>
   </tr>
       </tbody>
@@ -79,7 +79,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       Acquisition Checklist<br>
     </td>
     <td>
-    TBD<br> 
+    TBA<br> 
     </td>
   </tr>
 </table>
