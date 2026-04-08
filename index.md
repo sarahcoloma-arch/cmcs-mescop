@@ -30,6 +30,56 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     </tr>
   </thead>
   <tbody>
+     <tr>
+    <td>Wednesday, April 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Operational Report Workbook<br>
+    </td>
+    <td>
+    TBA<br> 
+    </td>
+  </tr>
+     <tr>
+    <td>Wednesday, May 20, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Project Status Reports<br>
+    </td>
+    <td>
+    TBA<br> 
+    </td>
+  </tr>
+     <tr>
+    <td>Wednesday, June 17, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Analysis of Alternatives<br>
+    </td>
+    <td>
+    TBA<br> 
+    </td>
+  </tr>
+     <tr>
+    <td>Wednesday, July 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Acquisition Checklist<br>
+    </td>
+    <td>
+    TBA<br> 
+    </td>
+  </tr>
+</tbody>
+</table>
+
+### Past CoP sessions 
+
+<table>
+    <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topics</th>
+      <th>Documents</th>
+    </tr>
+  </thead>
+  <tbody>
   <tr>
     <td>Wednesday, March 25, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
@@ -43,46 +93,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     </td>
   </tr>
   </tbody>
-     <tr>
-    <td>Wednesday, April 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
-    <td>
-      Operational Report Workbook<br>
-    </td>
-    <td>
-    TBA<br> 
-    </td>
-  </tr>
-    </tbody>
-     <tr>
-    <td>Wednesday, May 20, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
-    <td>
-      Project Status Reports<br>
-    </td>
-    <td>
-    TBA<br> 
-    </td>
-  </tr>
-     </tbody>
-     <tr>
-    <td>Wednesday, June 17, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
-    <td>
-      Analysis of Alternatives<br>
-    </td>
-    <td>
-    TBA<br> 
-    </td>
-  </tr>
-      </tbody>
-     <tr>
-    <td>Wednesday, July 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
-    <td>
-      Acquisition Checklist<br>
-    </td>
-    <td>
-    TBA<br> 
-    </td>
-  </tr>
-</table>
+  </table>
 
 ### MES CoP Office Hours 
 
@@ -104,6 +115,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     <a href="https://events.gcc.teams.microsoft.com/event/2dbae0ac-43f8-4dfe-b2c1-f4d37dc63c29@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
     </td>
   </tr>
+  </tbody>
   </table>
 
 #### ⭐  Have ideas for a CoP topic? We invite you to [share them](https://docs.google.com/forms/d/e/1FAIpQLSfbEELvuF62ARcMZYR0vUDI6zFu0LFlPMu7IyPV6dM9feVmcw/viewform?usp=dialog). 
