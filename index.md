@@ -17,14 +17,64 @@ The CMS MES CoP is a meaningful space that brings together states, vendors, and 
 * Improve transparency and standardization of MES topics.
 * Broaden relationships between states and the MES team.
 
-For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](mailto:MESFeedback@cms.hhs.gov).
+For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov](mailto:StateFeedback@cms.hhs.gov).
 
 ### Upcoming MES CoP sessions 
 
 <table>
     <thead>
     <tr>
-      <th>Month</th>
+      <th>Date</th>
+      <th>Topics</th>
+      <th>Documents</th>
+    </tr>
+  </thead>
+  <tbody>
+     <tr>
+    <td>Wednesday, April 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Operational Report Workbook<br>
+    </td>
+    <td>
+    TBA<br> 
+    </td>
+  </tr>
+     <tr>
+    <td>Wednesday, May 20, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Project Status Reports<br>
+    </td>
+    <td>
+    TBA<br> 
+    </td>
+  </tr>
+     <tr>
+    <td>Wednesday, June 17, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Analysis of Alternatives<br>
+    </td>
+    <td>
+    TBA<br> 
+    </td>
+  </tr>
+     <tr>
+    <td>Wednesday, July 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Acquisition Checklist<br>
+    </td>
+    <td>
+    TBA<br> 
+    </td>
+  </tr>
+</tbody>
+</table>
+
+### Past CoP sessions 
+
+<table>
+    <thead>
+    <tr>
+      <th>Date</th>
       <th>Topics</th>
       <th>Documents</th>
     </tr>
@@ -33,7 +83,7 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](m
   <tr>
     <td>Wednesday, March 25, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      • New Medicaid Detailed Budget Table<br>
+      New Medicaid Detailed Budget Table<br>
     </td>
     <td>
     • <a href="#NEW LINK#">Meeting Recording</a><br> 
@@ -43,7 +93,30 @@ For questions about joining this CoP, please contact [MESFeedback@cms.hhs.gov](m
     </td>
   </tr>
   </tbody>
-</table>
+  </table>
+
+### MES CoP Office Hours 
+
+<table>
+    <thead>
+    <tr>
+      <th>Date</th>
+      <th>Topics</th>
+      <th>Documents</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>Wednesday, April 15, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      MDBT 2.0<br>
+    </td>
+    <td>
+    <a href="https://events.gcc.teams.microsoft.com/event/2dbae0ac-43f8-4dfe-b2c1-f4d37dc63c29@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
+    </td>
+  </tr>
+  </tbody>
+  </table>
 
 #### ⭐  Have ideas for a CoP topic? We invite you to [share them](https://docs.google.com/forms/d/e/1FAIpQLSfbEELvuF62ARcMZYR0vUDI6zFu0LFlPMu7IyPV6dM9feVmcw/viewform?usp=dialog). 
 
