@@ -36,7 +36,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       Operational Report Workbook<br>
     </td>
     <td>
-    <a href= https://events.gcc.teams.microsoft.com/event/4035d463-8d21-4eb3-bfe9-85da961132de@fbdcedc1-70a9-414b-bfa5-c3063fc3395e>Register Here</a><br> 
+    <a href="https://events.gcc.teams.microsoft.com/event/4035d463-8d21-4eb3-bfe9-85da961132de@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
     </td>
   </tr>
      <tr>
