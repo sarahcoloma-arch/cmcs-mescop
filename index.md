@@ -96,7 +96,11 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
   </table>
 
 #### Common Rule Essentials for FDA CDRH Group
-<iframe width="752" height="423" src="https://www.youtube.com/embed/HK7vsIFOswk" title="Common Rule Essentials for FDA CDRH Group" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="752" height="423"
+src="https://www.youtube.com/embed/HK7vsIFOswk"
+frameborder="0"
+allowfullscreen>
+</iframe>
 
 ### MES CoP Office Hours 
 
