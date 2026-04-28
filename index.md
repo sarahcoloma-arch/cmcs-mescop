@@ -20,7 +20,7 @@ The CMS MES CoP is a meaningful space that brings together states, vendors, and 
 For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov](mailto:StateFeedback@cms.hhs.gov).
 
 <iframe width="560" height="315"
-  src="https://www.youtube.com/watch?v=NIJqO81oO3U"
+  src="https://www.youtube.com/embed/NIJqO81oO3U?si=DWeUl8EPleQcMj4J"
   frameborder="0"
   allowfullscreen>
 </iframe>
