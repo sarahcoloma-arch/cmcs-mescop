@@ -90,7 +90,6 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     </td>
     <td>
     <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQC1znw34ub6RLGKa105h-RbAY8fI_83JNrjFX48qA1Hq-Y">Meeting Recording</a><br> 
-    <a href="assets/MES CoP Operational Report Workbook_Transcript.docx" target="_blank" rel="noopener noreferrer">Meeting Transcript</a><br> 
     <a href="assets/CoP_ORW_4_29_2026 V2 FINAL.pptx" target="_blank" rel="noopener noreferrer">(MES) (COP): Operational Report Workbook (ORW) Slide Deck</a><br> 
     </td>
   </tr>
