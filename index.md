@@ -19,6 +19,8 @@ The CMS MES CoP is a meaningful space that brings together states, vendors, and 
 
 For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov](mailto:StateFeedback@cms.hhs.gov).
 
+#### ⭐  Have ideas for a CoP topic? We invite you to [share them](https://docs.google.com/forms/d/e/1FAIpQLSfbEELvuF62ARcMZYR0vUDI6zFu0LFlPMu7IyPV6dM9feVmcw/viewform?usp=dialog). 
+
 ### Upcoming CoP sessions 
 
 <table>
@@ -26,23 +28,16 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     <tr>
       <th>Date</th>
       <th>Topics</th>
-      <th>Documents</th>
+      <th>Registration Link</th>
     </tr>
   </thead>
   <tbody>
      <tr>
-    <td>Wednesday, May 20, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
-    <td>
-      Analysis of Alternatives<br>
-    </td>
-    <td>
-    <a href="https://events.gcc.teams.microsoft.com/event/8b16f779-da7b-4dbd-aa29-be35127d2d60@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br>  
-    </td>
   </tr>
      <tr>
     <td>Wednesday, June 17, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
-      Project Status Reports and Acquisition Checklist<br>
+      Project Status Reports<br>
     </td>
     <td>
     TBA<br> 
@@ -90,9 +85,18 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     </td>
     <td>
     <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/makenzie_mcintoshrollins2_cms_hhs_gov/IQC1znw34ub6RLGKa105h-RbAY8fI_83JNrjFX48qA1Hq-Y">Meeting Recording</a><br> 
-    <a href="assets/CoP_ORW_4_29_2026 V2 FINAL.pptx" target="_blank" rel="noopener noreferrer">(MES) (COP): Operational Report Workbook (ORW) Slide Deck</a><br> 
+    <a href="assets/MES CoP Operational Report Workbook_Transcript.docx" target="_blank" rel="noopener noreferrer">Meeting Transcript</a><br> 
+    <a href="assets/CoP_ORW_4_29_2026 V2 FINAL.pptx" target="_blank" rel="noopener noreferrer">(MES) (COP): Operational Report Workbook (ORW) Slide Deck</a><br>
     </td>
   </tr>
+      <tr>
+    <td>Wednesday, May 20, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Analysis of Alternatives<br>
+    </td>
+    <td>
+    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/mianekee_johnson_cms_hhs_gov/IQCkakt6R7n5SZL4k5PZGSyLAUoAukns_SrFH8OMgX0riOs?e=ZghjfB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Meeting Recording</a><br> 
+    </td>
   </tbody>
   </table>
 
@@ -130,6 +134,5 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
   </tbody>
   </table>
 
-#### ⭐  Have ideas for a CoP topic? We invite you to [share them](https://docs.google.com/forms/d/e/1FAIpQLSfbEELvuF62ARcMZYR0vUDI6zFu0LFlPMu7IyPV6dM9feVmcw/viewform?usp=dialog). 
 
 
