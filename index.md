@@ -141,6 +141,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     <td>
     <a href="https://events.gcc.teams.microsoft.com/event/918ecb12-3445-4905-8467-5aa1639be21d@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
     </td>
+       </tr>
   </tbody>
   </table>
 
