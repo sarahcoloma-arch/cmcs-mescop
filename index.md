@@ -40,7 +40,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       Project Status Reports<br>
     </td>
     <td>
-    TBA<br> 
+    <a href="https://events.gcc.teams.microsoft.com/event/a4ebc1d2-d2ff-4102-8077-85f0fc00f34e@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
     </td>
   </tr>
      <tr>
