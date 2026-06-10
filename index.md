@@ -139,7 +139,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       AoA and PSR 2.0<br>
     </td>
     <td>
-  TBD<br> 
+   <a href="https://events.gcc.teams.microsoft.com/event/b0b5af1b-9411-4730-9cdd-43e5af649613@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
     </td>
        </tr>
   </tbody>
