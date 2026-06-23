@@ -35,15 +35,6 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
      <tr>
   </tr>
      <tr>
-    <td>Wednesday, June 17, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
-    <td>
-      Project Status Reports<br>
-    </td>
-    <td>
-    <a href="https://events.gcc.teams.microsoft.com/event/a4ebc1d2-d2ff-4102-8077-85f0fc00f34e@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
-    </td>
-  </tr>
-     <tr>
     <td>Wednesday, July 29, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
       Agile Oversight Model<br>
@@ -99,6 +90,15 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     <a href="assets/AoA_MES CoP_5.20.26.pdf" target="_blank" rel="noopener noreferrer">MES COP: Analysis of Alternatives (AoA) Template Slide Deck</a><br>
     </td>
       </tr>
+        <tr>
+    <td>Wednesday, June 17, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>
+      Project Status Reports<br>
+    </td>
+    <td>
+    <a href="https://cmsgovonline-my.sharepoint.com/:v:/g/personal/mianekee_johnson_cms_hhs_gov/IQCeOEWCxLnYRazG7uC19deTAXQw1FA6yFqjA1EKPsyk5kI?e=YscYmV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Meeting Recording</a><br> 
+    <a href="assets/Project Status Report_CoP_6.17.26.pdf" target="_blank" rel="noopener noreferrer">MES COP: Project Status Reports (PSR) Slide Deck</a><br>
+    </td>
   </tbody>
   </table>
 
@@ -134,7 +134,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
     </td>
   </tr>
        <tr>
-    <td>Tuesday, June 23, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
+    <td>Tuesday, July 7, 2026 | 2:00 PM - 3:00 PM EDT | Online event</td>
     <td>
       AoA and PSR 2.0<br>
     </td>
