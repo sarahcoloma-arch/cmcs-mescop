@@ -40,7 +40,7 @@ For questions about joining this CoP, please contact [StateFeedback@cms.hhs.gov]
       Agile Oversight Model<br>
     </td>
     <td>
-    TBA<br> 
+    <a href="https://events.gcc.teams.microsoft.com/event/b40cc45a-c0a8-4a35-a49e-6def96a8f259@fbdcedc1-70a9-414b-bfa5-c3063fc3395e">Register Here</a><br> 
     </td>
   </tr>
 </tbody>
